@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+form {
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    text-align: center;
+    list-style-type: none;
+}
